@@ -1,0 +1,16 @@
+Fresh Apple
+Rotten Apple
+Fresh Banana
+Rotten Banana
+Fresh Carrot
+Rotten Carrot
+Fresh Cucumber
+Rotten Cucumber
+Fresh Mango
+Rotten Mango
+Fresh Orange
+Rotten Orange
+Fresh Pepper
+Rotten Pepper
+Fresh Potato
+Rotten Potato
